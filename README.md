@@ -25,7 +25,6 @@ Hi My name is mizosaana and I am student.📚
 5. [aws-cliでCloudFlare R2にファイルをアップロードしたら失敗した話](https://zenn.dev/neody/articles/6f2b6e41dd1914)
 
 ## My work
-- [sbv2-api](https://github.com/neodyland/sbv2-api)
 - [My Page](https://tuna2134.jp/)
 - [Glow-bot](https://glow-bot.com)
 - [Musicy](https://musicy.neody.land)
